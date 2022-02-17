@@ -1,5 +1,6 @@
-# shell-magics
-Some shell magics you need in daily life 
+# Shell-magics
+Some shell magics you need in daily life
+Note: for windows you can use `Git Bash`
 
 
 #### Move all files (with wildcard) in a directory (recursively) regardles of folder depth or number , use `cp` for copying
