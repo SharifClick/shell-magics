@@ -1,5 +1,6 @@
 # Shell-magics
 Some shell magics you need in daily life
+
 Note: for windows you can use `Git Bash`
 
 
