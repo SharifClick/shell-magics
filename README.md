@@ -2,7 +2,8 @@
 Some shell magics you need in daily life 
 
 
-### Copy or move all files in a directory regardles of folder depth or number
+#### Move all files (with wildcard) in a directory (recursively) regardles of folder depth or number , use `cp` for copying
+
 ```shell
-  find ./pictures -name '*.*' | xargs -I files mv files ./results
+  find ./input -name '*.*' | xargs -I files mv files ./output
 ```
